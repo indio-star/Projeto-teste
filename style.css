@@ -1,14 +1,2 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-img{
-    max-width: 100%;
-    display: block;
-
-}
-body{
-    color: #fff;
-    background-color: #272727;
-}
+@import url(assets/style/global.css);
+@import url(assets/style/header.css);
